@@ -1,4 +1,4 @@
-#More than a Museum
+#See What You Think
 
 ## The San Jose Museum of Art: Digital Strategy 2020 - 2021
 

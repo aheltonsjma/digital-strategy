@@ -35,6 +35,7 @@ The following are projects initiated or deployed between 2015 and 2019 that exem
 * Digital publications before 50X50? There have been a couple. (?)
 * 50X50 Face to Face Digital Publication (2017)
 * DOME Collective Research Prototype (MARCH 2019)
+* Knight Foundation "Museum Tech Deep Dives" Project (JUNE 2019 - ?)
 * Past Gallery Interactives?
 * Future Gallery Interactives?
 * Do we have a responsive email marketing strategy?
@@ -43,4 +44,4 @@ The following are projects initiated or deployed between 2015 and 2019 that exem
 
 -----
 
-[HOME](index.md) | [Previous Section](01_Introduction.md) | [Next Section](03_Narratives_and_Access.md)
+[HOME](index.md) | [Previous Section](01_Introduction.md) | [Next Section](0202_Experiences_and_Engagement.md)

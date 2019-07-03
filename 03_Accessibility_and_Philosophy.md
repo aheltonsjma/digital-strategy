@@ -35,4 +35,4 @@ The following are projects initiated or deployed between 2015 and 2019 that exem
 
 -----
 
-[HOME](index.md) | [Previous Section](02_Experiences_and_Engagement.md) | [Next Section](04_Organizational_Adaptation.md)
+[HOME](index.md) | [Previous Section](02_Experiences_and_Engagement.md) | [Next Section](0303_Accessibility_and_Philisophy.md)

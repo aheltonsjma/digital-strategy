@@ -2,7 +2,7 @@
 
 ## Digital Strategy: 2020 - 2021
 
-This is a versioned digital strategy repository for [San José Museum of Art](https://sjmusart.org/) in Pittsburgh, PA, USA. The strategy is designed to grow with the museum through technology's rapid evolution and be a living resource the museum can use to navigate the fast-moving and often uncharted waters of the emerging digital landscape.
+This is a versioned digital strategy repository for [San José Museum of Art](https://sjmusart.org/) in San José, CA USA. The strategy is designed to grow with the museum through technology's rapid evolution and be a living resource the museum can use to navigate the fast-moving and often uncharted waters of the emerging digital landscape.
 
 We are using GitHub to draft and publish this strategy, which makes a catalog of previous versions accessible. In addition, the source files can be easily shared and repurposed within the cultural sector. We intend to revisit and update this strategy regularly as tactics and technologies evolve.
 
@@ -15,7 +15,7 @@ This digital strategy was authored by Amanda Helton, Manager of Digital Strategy
 * Sayre Batton, Oshman Executive Directo, San José Museum of Art
 * Holly Shen, Deputy Director, San José Museum of Art
 
-Questions or comments about the digital strategy can be sent to [awm-webmaster@warhol.org](mailto:awm-webmaster@warhol.org).
+Questions or comments about the digital strategy can be sent to [awm-webmaster@warhol.org](mailto:ahelton@sjmusart.org).
 
 ## License
 
