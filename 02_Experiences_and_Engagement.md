@@ -44,4 +44,4 @@ The following are projects initiated or deployed between 2015 and 2019 that exem
 
 -----
 
-[HOME](index.md) | [Previous Section](01_Introduction.md) | [Next Section](0202_Experiences_and_Engagement.md)
+[HOME](index.md) | [Previous Section](01_Introduction.md) | [Next Section](03_Accessibility_and_Philisophy.md)

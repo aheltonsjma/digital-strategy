@@ -27,4 +27,4 @@ The following are projects initiated or deployed between 2015 and 2017 that exem
 
 -----
 
-[HOME](index.md) | [Previous Section](03_Narratives_and_Access.md) | [Next Section](05_Financial_Solvency.md)
+[HOME](index.md) | [Previous Section](03_Accessibility_and_Philisophy.md) | [Next Section](05_Financial_Solvency.md)
