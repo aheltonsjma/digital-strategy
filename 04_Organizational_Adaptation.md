@@ -10,7 +10,7 @@ The museum works to empower staff to think critically and creatively about techn
 
 ###4.2 Developing internal skill-sets
 
-The Manager of Digital Strategy, Manager of Collections Information and Access, and other members of the digital team serve as an internal resource for staff and organizes learning opportunities intended to develop internal skill-sets with digital tools. The more comfortable staff becomes and the more successes we have with our digital toolbox, the more willing we are to continue our collective growth and knowledge base.
+The Manager of Digital Strategy along with other key members of the digital team serve as an internal resource for staff and organize learning opportunities intended to develop internal skill-sets with digital tools. The more comfortable staff becomes and the more successes we have with our digital toolbox, the more willing we are to continue our collective growth and knowledge base.
 
 ###4.3 New organizational workflows
 

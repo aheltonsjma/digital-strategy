@@ -1,6 +1,6 @@
 #More than a Museum
 
-## The San Jose Museum of Art: Digital Strategy 2015 - 2019
+## The San Jose Museum of Art: Digital Strategy 2020 - 2021
 
 1. [Introduction](01_Introduction.md)
 	1. Vision Statement

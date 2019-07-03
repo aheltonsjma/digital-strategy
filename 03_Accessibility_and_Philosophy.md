@@ -26,7 +26,12 @@ The following are projects initiated or deployed between 2015 and 2019 that exem
 
 * [Dome Collective Prototype](http://www.warhol.org/digital/metrics) — January 2015
 * 50X50 Face to Face Digital Publication
-* Ticketing changes to provide feee access for certain groups?
+* Ticketing changes that provide feee access for certain groups. Explicate these here.
+
+The following are projects initiated or deployed between 2015 and 2019 that exemplify the Narratives and Access strategy outlined above:
+
+* 50X50 Face to Face Digital Publication Alt-context
+* SJMA website accessibility update
 
 -----
 
