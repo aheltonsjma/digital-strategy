@@ -5,7 +5,7 @@
 1. [Introduction](01_Introduction.md)
 	1. Vision Statement
 	2. Strategic Thrusts
-2. [Experiences and Engagement](02 Experiences_and_Engagement.md)
+2. [Experiences and Engagement](02_Experiences_and_Engagement.md)
 	1. On-site
 	2. Online
 3. [Accessibility and Philosophy](03_Accessibility_and_Philosophy.md)
