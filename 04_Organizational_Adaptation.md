@@ -21,9 +21,14 @@ Evaluating and streamlining existing organizational workflows to optimize produc
 ###4.4 Strategy In Action
 
 The following are projects initiated or deployed between 2015 and 2017 that exemplify the Organizational Transformation strategy outlined above:
-
-* Creation of a Digital Engagement Team — February 2018
 *
+* 
+
+The following are anticipated that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:
+
+* Creation of a Digital Engagement Team — January 2020
+* Addressing workflow and systems in place at SJMA and how they are working or not working, and implementing change where necessary.-
+* Establish a Digital Asset Management system to improve workflow around asset management and rights/reproduction for Exhibitions, Marketing, and other uses.
 
 -----
 

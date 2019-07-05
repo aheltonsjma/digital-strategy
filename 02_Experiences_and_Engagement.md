@@ -10,7 +10,7 @@ People have many choices when considering where and how to spend their leisure t
 
 The experience at SJMA must not only be top-tier in Silicon Valley, but also must be world class. The museum's gallery experience must be active, participatory, surprising and delightful.
 
-With respect to digital technologies, experiences should be seamless and available to visitors who want them but invisible when they don't. They should align with visitor behaviors and compliment the museum experience in a meaningful way.
+With respect to digital technologies, experiences should be seamless and available to visitors who want them but unobtrusive when they don't. They should align with visitor behaviors and compliment the museum experience in a meaningful way.
 
 We do not deploy technology projects for technology's sake or as an add-on afterthought. Instead, the digital components to the on-site gallery experience are a part of the discussion from a project's inception, through its installation, and throughout its duration. Having digital leadership involved from the outset is instrumental in creating seamless, integrated experiences.
 
@@ -33,13 +33,16 @@ The following are projects initiated or deployed between 2015 and 2019 that exem
 * IMLS Funded Digitization of Permanent Collection (?)
 * Permanent Collection Portal (Web Kiosk)
 * Digital publications before 50X50? There have been a couple. (?)
-* 50X50 Face to Face Digital Publication (2017)
+* Past Gallery Interactives?
+
+The following are anticipated that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:
+
+* 50X50 Face to Face Digital Publication (2019)
 * DOME Collective Research Prototype (MARCH 2019)
 * Knight Foundation "Museum Tech Deep Dives" Project (JUNE 2019 - ?)
-* Past Gallery Interactives?
 * Future Gallery Interactives?
 * Do we have a responsive email marketing strategy?
-
+* Establish specific strategy for each social media platform we use.
 
 
 -----

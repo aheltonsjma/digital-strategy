@@ -1,4 +1,4 @@
-# 3. Narratives and Access
+# 3. Accessibility and Philosophy
 
 As museums and cultural heritage institutions, we are the keepers, creators and stewards of artwork and their narratives. SJMA is a leading showcase in the Bay Area for modern and contemporary art. The Museum has earned a reputation for its fresh, distinctive exhibitions, which are conceived to engage Museum visitors of various ages and cultural backgrounds.  Through its exhibitions and programs, SJMA addresses major trends in international contemporary art, architecture, and design, with an ongoing commitment to also place the work of California artists in national and international context.
 
@@ -24,11 +24,10 @@ SJMA embraces an open source ethos and commits to deploying initiatives on open 
 
 The following are projects initiated or deployed between 2015 and 2019 that exemplify the Narratives and Access strategy outlined above:
 
-* [Dome Collective Prototype](http://www.warhol.org/digital/metrics) — January 2015
 * 50X50 Face to Face Digital Publication
 * Ticketing changes that provide feee access for certain groups. Explicate these here.
 
-The following are projects initiated or deployed between 2015 and 2019 that exemplify the Narratives and Access strategy outlined above:
+The following are anticipated that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:
 
 * 50X50 Face to Face Digital Publication Alt-context
 * SJMA website accessibility update

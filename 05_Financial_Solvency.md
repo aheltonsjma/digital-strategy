@@ -23,9 +23,13 @@ This strategy also applies to internal workflow management, collections manageme
 ###5.4 Strategy in action
 
 The following are projects initiated or deployed between 2015 and 2019 that exemplify the Financial Solvency strategy outlined above:
+*
+*
+
+The following are anticipated that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:
 
 * [Mobile-optimized individual giving site](xxxxx) — XXXXX
-*
+* 
 
 -----
 

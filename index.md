@@ -8,7 +8,7 @@
 2. [Experiences and Engagement](02 Experiences_and_Engagement.md)
 	1. On-site
 	2. Online
-3. [Accessibility and Philosophy](03_Accessibility_and_Philisophy.md)
+3. [Accessibility and Philosophy](03_Accessibility_and_Philosophy.md)
 	1. Transparency
 	2. Accessibility
 	3. Open Frameworks
