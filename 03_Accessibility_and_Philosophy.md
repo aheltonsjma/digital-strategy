@@ -27,11 +27,12 @@ The following are projects initiated or deployed between 2015 and 2019 that exem
 * 50X50 Face to Face Digital Publication
 * Ticketing changes that provide feee access for certain groups. Explicate these here.
 
-The following are anticipated that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:
+The following are anticipated projects that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:
 
 * 50X50 Face to Face Digital Publication Alt-context
 * SJMA website accessibility update
 
+The following future projects exemplify the Experiences and Engagement strategy outlined above and will be pursued after 2021:
 -----
 
 [HOME](index.md) | [Previous Section](02_Experiences_and_Engagement.md) | [Next Section](04_Organizational_Adaptation.md)

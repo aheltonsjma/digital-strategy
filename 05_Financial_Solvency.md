@@ -2,6 +2,8 @@
 
 Much like the way technology is transforming the way we live and work, it is also disrupting conventional business models. The cultural sector, in many ways, is shouldering the brunt of this disruption and struggling to adapt in the wake of small budgets and limited resources. SJMA recognizes that our organization requires adequate financial resources to fulfill its mission.
 
+Museum business models are non-standard, and as such, direct use of digital programs do not pay for their development and operations costs. Sponsorship, grant funding, and other support will be necessary to reach out goals and deliver digital content.
+
 In concert with the museum's existing business model, we continue to investigate and harness digital technologies to help make a positive impact on the financial bottom line and to secure funds that provide us the flexibility to experiment and implement new technologies.
 
 ###5.1 Philanthropy
@@ -18,7 +20,7 @@ Technology cycles do not align with funding cycles. Often, when a museum has a c
 
 The museum works to systematically evolve from a digital project-based funding model to a digital operating-based funding model. This allows digital staff to be opportunistic with initiatives, in addition to making iteration and rapid development key elements to the museum's digital activities.
 
-This strategy also applies to internal workflow management, collections management, and communications processes within the museum.
+In order to provide digital experiences on par with the quality of our current in-gallery programming, SJMA must respond strategically to changes in the technological landscape. This requires that SJMA invest in foundations that last (e.g infrastructure and capability) while staying agile/flexible in those areas that frequently change (e.g devices & interfaces).This strategy also applies to internal workflow management, collections management, and communications processes within the museum.
 
 ###5.4 Strategy in action
 
@@ -26,11 +28,12 @@ The following are projects initiated or deployed between 2015 and 2019 that exem
 *
 *
 
-The following are anticipated that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:
+The following are anticipated projects that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:
 
 * [Mobile-optimized individual giving site](xxxxx) — XXXXX
-* 
+*
 
+The following future projects exemplify the Experiences and Engagement strategy outlined above and will be pursued after 2021:
 -----
 
 [HOME](index.md) | [Previous Section](04_Organizational_Adaptation.md) | [Next Section](06_Benchmarks_Deliverables_and_Progress.md)

@@ -1,14 +1,20 @@
 # 1. Introduction
 
-What does it mean to be a museum in the digital age? How can digital experiences and emerging technology help SJMA successfully meet its mission? Where do we begin our path toward becoming truly optimized for the evolving digital landscape, and why should we begin at all?
+What does it mean to be a museum in the digital age? How can digital experiences and emerging technology help SJMA successfully meet its mission? Where do we begin our path toward becoming truly optimized for the evolving digital landscape, and why should we?
 
-Many museums are confronting questions like these with their first formal digital strategy. This document is intended to be a roadmap as the museum works to infuse digital activities into its fabric. From in-gallery interactive projects to the digital literacy of our staff, a structured strategy helps the museum stay focused on the priorities and goals we have identified herein, and it serves as a repository for tracking our progress along the way.
+Digitization of museum collections and the widespread dissimination of networked digital information has fundamentally altered how information about cultural objects is produced and managed. Museums are not immune to these shifts and they represent the greatest change that museums have been grappling with in many decades. Such changes have provided new opportunities to engage with users online and presented a challenge to which museums must respond: How might we deliver authoritative digital content with the speed and reliability that are expected by users and driven by broader digital trends and standards? The extend to which SJMA can benefit from new opportunities in the digital space to drive revenue, engagement, and innovation
+
+Many museums are confronting questions like these with their first formal digital strategy. This document is intended to be a roadmap as the museum works to further infuse digital activities into its fabric. From in-gallery interactive projects to the digital literacy of our staff, a structured strategy helps the museum stay focused on the priorities and goals we have identified herein, and it serves as a repository for tracking our progress along the way.
+
+SJMA's digital strategy provides a diagnosis of what role digital should play in service of SJMA's core values, a guiding policy for implementation, and clarity around the specific actions required. 
 
 ###A Real-Time Document
 
 SJMA's digital strategy for 2020-2021 is a real-time document. This means it is living and evolving as we deploy tactics to meet the strategies contained herein. Each strategic thrust includes a *Strategy in Action* section, where we will make updates, additions and notes about ongoing activities.
 
 By structuring our digital strategy as a living document, we have the freedom to respond quickly to external conditions, such as rapid shifts in technology and real-time digital metrics reporting. A transparent document such as this also keeps the museum publicly accountable for progress and momentum.
+
+Given that the world of technology is more fast-paced and dynamic, than the museum world, it will be important to scale our efforts in proportion to what our staff and resources can adequately manage. This digital strategy will outline what projects the museum is currently engaged in that support this strategy, as well as a plan for the future projects we would like to build our capacity to satisfy over time. A timeline for completion will be estimated for each initiative.
 
 ###An Open-Source Repository
 

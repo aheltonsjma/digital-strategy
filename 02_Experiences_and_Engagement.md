@@ -8,9 +8,7 @@ Alongside the compelling experiences offered by SJMA is an ethos of open engagem
 
 People have many choices when considering where and how to spend their leisure time and money. Here in Silicon Valley, someone could attend a ball game, enjoy a tasty meal, go to a concert, see a film or visit one of many cultural institutions within the city. All of these options offer unique experiences.
 
-The experience at SJMA must not only be top-tier in Silicon Valley, but also must be world class. The museum's gallery experience must be active, participatory, surprising and delightful.
-
-With respect to digital technologies, experiences should be seamless and available to visitors who want them but unobtrusive when they don't. They should align with visitor behaviors and compliment the museum experience in a meaningful way.
+The experience at SJMA must not only be top-tier in Silicon Valley, but also must be world class. The museum's gallery experience must be active, participatory, surprising and delightful. With respect to digital technologies, experiences should be seamless and available to visitors who want them but unobtrusive when they don't. They should align with visitor behaviors and compliment the museum experience in a meaningful way.
 
 We do not deploy technology projects for technology's sake or as an add-on afterthought. Instead, the digital components to the on-site gallery experience are a part of the discussion from a project's inception, through its installation, and throughout its duration. Having digital leadership involved from the outset is instrumental in creating seamless, integrated experiences.
 
@@ -24,7 +22,11 @@ SJMA's digital team strives for a balance between developing internally-supporte
 
 We emphasize community and work to grow the depth of interactions around SJMA's artworks, artists, and the San José community through the lens of emerging technologies and digital culture.
 
-###2.3 Strategy In Action
+###2.3 Experience Integration
+
+Onsite and online experiences should join up all aspects of the visitor experience before, during, and after a visit to the museum. This facilitates a stronger connection with the visitor and encourages them to return.
+
+###2.4 Strategy In Action
 
 The following are projects initiated or deployed between 2015 and 2019 that exemplify the Experiences and Engagement strategy outlined above:
 
@@ -35,15 +37,15 @@ The following are projects initiated or deployed between 2015 and 2019 that exem
 * Digital publications before 50X50? There have been a couple. (?)
 * Past Gallery Interactives?
 
-The following are anticipated that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:
+The following are anticipated projects that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:
 
 * 50X50 Face to Face Digital Publication (2019)
 * DOME Collective Research Prototype (MARCH 2019)
 * Knight Foundation "Museum Tech Deep Dives" Project (JUNE 2019 - ?)
-* Future Gallery Interactives?
 * Do we have a responsive email marketing strategy?
 * Establish specific strategy for each social media platform we use.
 
+The following future projects exemplify the Experiences and Engagement strategy outlined above and will be pursued after 2021:
 
 -----
 
