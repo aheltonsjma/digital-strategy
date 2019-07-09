@@ -35,15 +35,17 @@ The following are projects initiated or deployed between 2015 and 2019 that exem
 * IMLS Funded Digitization of Permanent Collection (?)
 * Permanent Collection Portal (Web Kiosk)
 * Digital publications before 50X50? There have been a couple. (?)
-* Past Gallery Interactives?
+* Past Gallery Interactives? Banerjee etc.
+* Analysis and expansion of current website analytics data. (?)
 
 The following are anticipated projects that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:
 
-* 50X50 Face to Face Digital Publication (2019)
-* DOME Collective Research Prototype (MARCH 2019)
-* Knight Foundation "Museum Tech Deep Dives" Project (JUNE 2019 - ?)
-* Do we have a responsive email marketing strategy?
-* Establish specific strategy for each social media platform we use.
+* 50X50 Face to Face Digital Publication (May 2020)
+* DOME Collective Research Prototype (March 2019)
+* Knight Foundation "Museum Tech Deep Dives" Project (February 2020)
+* Do we have a responsive email marketing strategy (?)
+* Establish specific strategy for each social media platform we use.(?)
+* On-site evaluation, user testing, and visitor survey. (?)
 
 The following future projects exemplify the Experiences and Engagement strategy outlined above and will be pursued after 2021:
 

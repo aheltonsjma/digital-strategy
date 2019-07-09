@@ -12,9 +12,7 @@ Tactics employed for increasing institutional transparency may include the imple
 
 ###3.2 Access
 
-Museums often create their own barriers that prevent users from accessing objects, scholarship and narratives. These barriers to access touch every point along the user/visitor experience journey, from purchasing tickets to viewing collection objects online to participating in a dialogue with museum staff. We must put digital technologies to work in addressing where barriers to access exist and eliminate those barriers wherever possible.
-
-SJMA designs the digital experience around accessibility with the goal of providing experiences that are available for anyone who desires them, regardless of background or ability.
+Museums often create their own barriers that prevent users from accessing objects, scholarship and narratives. These barriers to access touch every point along the user/visitor experience journey, from purchasing tickets to viewing collection objects online to participating in a dialogue with museum staff. We must put digital technologies to work in addressing where barriers to access exist and eliminate those barriers wherever possible. SJMA designs the digital experience around accessibility with the goal of providing experiences that are available for anyone who desires them, regardless of background or ability.
 
 ###3.3 Open Frameworks
 
@@ -24,15 +22,19 @@ SJMA embraces an open source ethos and commits to deploying initiatives on open 
 
 The following are projects initiated or deployed between 2015 and 2019 that exemplify the Narratives and Access strategy outlined above:
 
-* 50X50 Face to Face Digital Publication
-* Ticketing changes that provide feee access for certain groups. Explicate these here.
+* 50X50 Face to Face Digital Publication (May 2020)
+* Ticketing changes that provide feee access for certain groups. Explicate these here. (?)
 
 The following are anticipated projects that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:
 
-* 50X50 Face to Face Digital Publication Alt-context
-* SJMA website accessibility update
+* 50X50 Face to Face Digital Publication Alt-text Accessibility Update (December 2020)
+* SJMA website accessibility update (?)
 
 The following future projects exemplify the Experiences and Engagement strategy outlined above and will be pursued after 2021:
+
+* 100% of permanent collection digitized and available online.
+* All new projects meet accessibility requirements and are standards-compliant.
+
 -----
 
 [HOME](index.md) | [Previous Section](02_Experiences_and_Engagement.md) | [Next Section](04_Organizational_Adaptation.md)

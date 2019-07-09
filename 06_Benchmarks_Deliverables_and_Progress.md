@@ -25,7 +25,7 @@ A digital strategy is only beneficial to an organization if the results are meas
 	* user testing & focus groups
 	* interactive analytics
 
-**Narratives and Access:**
+**Accessibility and Philosophy:**
 
 * Work towards 100% of the museum's collection available online
 * Flexibility and availability of museum data
@@ -43,7 +43,7 @@ A digital strategy is only beneficial to an organization if the results are meas
 
 * Measurable growth in online giving as a result of a mobile optimized giving site
 * Alignment, analysis and integration of earned income verticals
-* Increase capacity within the digital engagement team by hiring new talent and increasing capacity of SJMA staff overall
+* Utilize new resources to increase capacity within the digital engagement team and museum overall by hiring new talent and increasing bandwidth of SJMA to deliver digital experiences
 
 -----
 

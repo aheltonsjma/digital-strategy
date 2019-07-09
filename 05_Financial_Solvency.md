@@ -30,10 +30,12 @@ The following are projects initiated or deployed between 2015 and 2019 that exem
 
 The following are anticipated projects that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:
 
-* [Mobile-optimized individual giving site](xxxxx) — XXXXX
-*
+* [Mobile-optimized individual giving site](https://sjmusart.org/join-and-support) — XXXXX
 
 The following future projects exemplify the Experiences and Engagement strategy outlined above and will be pursued after 2021:
+*
+*
+
 -----
 
 [HOME](index.md) | [Previous Section](04_Organizational_Adaptation.md) | [Next Section](06_Benchmarks_Deliverables_and_Progress.md)
