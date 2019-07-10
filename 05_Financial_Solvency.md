@@ -2,9 +2,9 @@
 
 Much like the way technology is transforming the way we live and work, it is also disrupting conventional business models. The cultural sector, in many ways, is shouldering the brunt of this disruption and struggling to adapt in the wake of small budgets and limited resources. SJMA recognizes that our organization requires adequate financial resources to fulfill its mission.
 
-Museum business models are non-standard, and as such, direct use of digital programs do not pay for their development and operations costs. Sponsorship, grant funding, and other support will be necessary to reach out goals and deliver digital content.
+Museum business models are non-standard, and as such, direct use of digital programs do not pay for their development and operations costs. Sponsorship, grant funding, and other support will be necessary to reach our goals and deliver digital content.
 
-In concert with the museum's existing business model, we continue to investigate and harness digital technologies to help make a positive impact on the financial bottom line and to secure funds that provide us the flexibility to experiment and implement new technologies.
+In concert with the museum's existing business model, we continue to investigate and harness digital technologies to help make a positive impact on the financial bottom line and to secure funds that provide us the flexibility to experiment with and implement new technologies.
 
 ###5.1 Philanthropy
 
