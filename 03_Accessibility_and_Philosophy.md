@@ -12,7 +12,7 @@ Tactics employed for increasing institutional transparency may include the imple
 
 ###3.2 Access
 
-Museums often create their own barriers that prevent users from accessing objects, scholarship and narratives. These barriers to access touch every point along the user/visitor experience journey, from purchasing tickets to viewing collection objects online to participating in a dialogue with museum staff. We must put digital technologies to work in addressing where barriers to access exist and eliminate those barriers wherever possible. SJMA designs the digital experience around accessibility with the goal of providing experiences that are available for anyone who desires them, regardless of background or ability.
+Museums often create their own barriers that prevent users from accessing objects and scholarship. These barriers to access touch every point along the user/visitor experience journey, from purchasing tickets to viewing collection objects online to participating in a dialogue with museum staff. We must put digital technologies to work in addressing where barriers to access exist and eliminate those barriers wherever possible. SJMA designs the digital experience around accessibility with the goal of providing experiences that are available for anyone who desires them, regardless of background or ability.
 
 ###3.3 Open Frameworks
 
