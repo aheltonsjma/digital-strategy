@@ -31,18 +31,18 @@ An IT budget should take into account the following aspects:
 
 ###4.5 Strategy In Action
 
-The following are projects initiated or deployed between 2015 and 2017 that exemplify the Organizational Transformation strategy outlined above:
+**The following are projects initiated or deployed between 2015 and 2017 that exemplify the Organizational Transformation strategy outlined above:**
 
 * Creation of a Digital Engagement Team — (January 2020)
 
-The following are anticipated projects that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:
+**The following are anticipated projects that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:**
 
 
 * Audit workflow and project management systems in place at SJMA and implementing change where necessary.- (January 2020-January 2021)
 * Technology audit to identify equipment and systems needs across all departments and build a plan for  addressing these needs systematically.
 
 
-The following future projects exemplify the Experiences and Engagement strategy outlined above and will be pursued after 2021:
+**The following future projects exemplify the Experiences and Engagement strategy outlined above and will be pursued after 2021:**
 
 * Transition from Embark to a web based collections management platform, For example: TMS Collections (Gallery Systems).
 * Establish a Digital Asset Management system to improve workflow around asset management and rights/reproduction for Exhibitions, Marketing, and other uses.
