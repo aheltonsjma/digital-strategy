@@ -20,7 +20,7 @@ Given that the world of technology is more fast-paced and dynamic than the museu
 
 This strategy document is an open-source repository made available under a [Creative Commons Attribution-NonCommercial-ShareAlike license](http://creativecommons.org/licenses/by-nc-sa/4.0/). You can find the source files on [The San José Museum of Art's GitHub account](XXXXX).
 
-## 1.1 Vision Statement
+### 1.1 Vision Statement
 
 The San José Museum of Art reflects the diverse cultures and innovative spirit of Silicon Valley. Through its exhibitions, programs, scholarship, and collections, SJMA connects the present and past, the art of the West Coast and the world. The Museum fosters awareness of artists' broad contributions to society and engages audiences with the art of our time and the vitality of the creative process.
 
@@ -40,7 +40,7 @@ In addition to the vision outlined above, it is also important to bring attentio
 
 Digital and emerging technologies are powerful tool with which SJMA will realize these goals and acknowledge the increasingly important role of digital activities within the museum space. The nexus of art and technology is the cornerstone which makes the experiences we offer our visitors relevant and engaging in an evolving digital landscape and invites them to engage with contemporary ideas about technology and culture with playful curiosity.
 
-## 1.3 Strategic Thrusts
+### 1.3 Strategic Thrusts
 
 SJMA has identified several areas of intense focus for digital and emerging technology in the coming years. These areas of focus align with the museum's broader strategic goals and are designed to compliment them.
 
