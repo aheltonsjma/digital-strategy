@@ -25,12 +25,13 @@ In order to provide digital experiences on par with the quality of our current i
 ###5.4 Strategy in action
 
 **The following are projects initiated or deployed between 2015 and 2019 that exemplify the Financial Solvency strategy outlined above:**
-*
-*
+* IMLS Grant for Digitization of the Permanent Collection (2011-2019)
+* Knight Foundation Grant for Manager of Digital Strategy (2018)
 
 **The following are anticipated projects that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:**
 
 * [Mobile-optimized individual giving site](https://sjmusart.org/join-and-support) — XXXXX
+* Reaching out to community partners and building relationships that will increase our potential for technology community support.
 
 **The following future projects exemplify the Experiences and Engagement strategy outlined above and will be pursued after 2021:**
 *

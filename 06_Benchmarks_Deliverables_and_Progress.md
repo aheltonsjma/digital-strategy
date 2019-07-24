@@ -38,6 +38,7 @@ A digital strategy is only beneficial to an organization if the results are meas
 * Digital leadership is a part of all early-stage project discussions
 * Cultivate information sharing between the digital engagement team and other staff to increase digital literacy and improve workflow at the museum
 * Internal assessments to measure progress and feedback from staff
+* On-going analysis and updates of technology infrastructure
 
 **Financial Solvency:**
 
