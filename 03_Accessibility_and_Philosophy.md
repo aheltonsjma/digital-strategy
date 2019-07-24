@@ -32,7 +32,7 @@ SJMA joins other reputable and forward-thinking institutions with public service
 
 **The following are anticipated projects that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:**
 
-* 50X50 Face to Face Digital Publication Alt-text Accessibility Update (December 2020)
+* *50X50 Face to Face* Digital Publication Alt-text Accessibility Update (December 2020)
 * SJMA website ADA audit (Date?), Cost estimate: $1500
 * SJMA website accessibility update, (Date?) Cost Estimate: $3,000-$5,000
 
