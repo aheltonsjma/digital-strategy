@@ -1,14 +1,14 @@
 # 3. Accessibility and Philosophy
 
-As museums and cultural heritage institutions, we are the keepers, creators and stewards of artwork for the public. SJMA is a leading showcase in the Bay Area for modern and contemporary art. The Museum has earned a reputation for its fresh, distinctive exhibitions, which are conceived to engage Museum visitors of various ages and cultural backgrounds.Through its exhibitions and programs, SJMA addresses major trends in international contemporary art, architecture, and design, with an ongoing commitment to also place the work of California artists in national and international context.
+As museums and cultural heritage institutions, we are the stewards of artwork for the public. SJMA is a leading showcase in the Bay Area for modern and contemporary art. The Museum has earned a reputation for its fresh, distinctive exhibitions, which are conceived to engage Museum visitors of various ages and cultural backgrounds.Through its exhibitions and programs, SJMA addresses major trends in international contemporary art, architecture, and design, with an ongoing commitment to also place the work of California artists in national and international context.
 
-Digital technologies provide new ways of sharing stories and inviting participation through transparent open access. In the coming years we will continue to work to increase operational transparency and access to the museum's collection and its fascinating collection.
+Digital technologies provide new ways of sharing stories and inviting participation through transparent open access. In the coming years we will continue to work to increase operational transparency and access to the museum's fascinating collection.
 
 ### 3.1 Transparency
 
 In the digital age, availability of all known information supersedes the availability of total or complete information. SJMA Museum embraces this notion and works to make all known information about the museum and its collection available in standard and useable formats.
 
-Tactics employed for increasing institutional transparency may include the implementation of digital dashboards, a communication strategy highlighting behind-the-scenes activity, or an open call for digital users to provide feedback and information about objects in the museum's collection.
+Tactics employed for increasing institutional transparency may include the implementation of a communication strategy highlighting behind-the-scenes activity, or an open call for digital users to provide feedback and information about objects in the museum's collection or programming at the museum.
 
 ### 3.2 Access
 
@@ -26,7 +26,7 @@ SJMA joins other reputable and forward-thinking institutions with public service
 
 **The following are projects initiated or deployed between 2015 and 2019 that exemplify the Narratives and Access strategy outlined above:**
 
-* 50X50 Face to Face Digital Publication (Launch on May 2020)
+* *50X50 Face to Face* Digital Publication (Launch on May 2020)
 * Individual admission for youth 17 and under, college students, and teachers with valid ID is now free every day.(2019)
 * The Museum is open 11am–9pm or later on the first Friday of each month. These late nights offer free admission to all exhibitions and programs from 5–9pm.This sponsorship initiative is led by the Facebook Art Department.(2019)
 

@@ -16,13 +16,22 @@ The museum commits to deploying technology to help increase earned income across
 
 ### 5.3 Digital Flexibility
 
-Technology cycles do not align with funding cycles. Often, when a museum has a concept for a great project, it doesn't have the funds or skill-sets immediately available to execute. The museum then seeks funding based on the project specifications. This can take months, sometimes years. By the time funding has been attained, technology has moved on.
+Technology cycles do not align with funding cycles. Often, when a museum has a concept for a great project, it doesn't have the funds or skill-sets immediately available to execute. The museum then seeks funding based on the project specifications and by the time funding has been attained, technology has moved on.
 
 The museum works to systematically evolve from a digital project-based funding model to a digital operating-based funding model. This allows digital staff to be opportunistic with initiatives, in addition to making iteration and rapid development key elements to the museum's digital activities.
 
 In order to provide digital experiences on par with the quality of our current in-gallery programming, SJMA must respond strategically to changes in the technological landscape. This requires that SJMA invest in foundations that last (e.g infrastructure and capability) while staying agile/flexible in those areas that frequently change (e.g devices & interfaces).This strategy also applies to internal workflow management, collections management, and communications processes within the museum.
 
-### 5.4 Strategy in action
+### 5.4 Updated Technology Infrastructure
+Failing to plan ahead for technical needs leads to technical debt which saddles the museum and its staff with a significant burden on their workflows and makes technical updates more expensive in the long-term. Budgeting for technology infrastructure should be considered every year in relation to any employee workstations that need updates, servers in use, machinery, software, databases or any other systems that are mission critical for SJMA.
+
+An IT budget should take into account the following aspects:
+  1. **Current infrastructure** What are we currently using and what maintenance does it require in the coming year?
+  2. **Technology lifecycles:** Three to five years is the average lifespan for a desktop computer, after 5 years servers suffer from greatly decreases performance and become more expensive to maintain)
+  3. **Future Vision:** What are out goals for the museum in the next 3-5 years and what improvements will support that vision?
+  4. **Current and projected revenue:** How much do we have to spend on IT Infrastructure? If rapid growth is in progress or expected then more may need to be spent to ensure that our infrastructure can keep up with that growth.
+
+### 5.5 Strategy in action
 
 **The following are projects initiated or deployed between 2015 and 2019 that exemplify the Financial Solvency strategy outlined above:**
 * IMLS Grant for Digitization of the Permanent Collection (2011-2019)

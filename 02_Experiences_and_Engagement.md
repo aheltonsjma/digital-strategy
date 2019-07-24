@@ -27,17 +27,17 @@ Onsite and online experiences should join up all aspects of the visitor experien
 **The following are projects initiated or deployed between 2015 and 2019 that exemplify the Experiences and Engagement strategy outlined above:**
 
 * [Fully responsive sjmusart.org](https://sjmusart.org/) — Month Year???
-* [This Kind of Bird Flies Backward: Paintings by Joan Brown](https://sjmusart.org/joan-brown/), (2011)
-* [Roots in the Air, Branches Below: Modern and Contemporary Art from India](https://sjmusart.org/roots-air-branches-below-modern-and-contemporary-art-india/home/index.php), (2011)
+* *[This Kind of Bird Flies Backward: Paintings by Joan Brown]*(https://sjmusart.org/joan-brown/), (2011)
+* *[Roots in the Air, Branches Below: Modern and Contemporary Art from India]*(https://sjmusart.org/roots-air-branches-below-modern-and-contemporary-art-india/home/index.php), (2011)
 * [SJMA Podcast available on Apple Podcasts](https://itunes.apple.com/podcast/sjma-podcast/id200789487?mt=2) (2006-2012)
 * [IMLS Funded Digitization of Permanent Collection](http://collection.sjmusart.org/?_ga=2.59512749.1871112890.1531504090-1211831290.1519773111),(2011)
-* [Rise Up! Social Justice in Art from the Collection of J. Michael Bewley](https://sjmusart.org/exhibition/rise-social-justice-art-collection-j-michael-bewley),(2018)
+* *[Rise Up! Social Justice in Art from the Collection of J. Michael Bewley]*(https://sjmusart.org/exhibition/rise-social-justice-art-collection-j-michael-bewley),(2018)
 * Past Gallery Interactives? Banerjee etc.
 * On-site evaluation, user testing, and visitor survey's.
 
 **The following are anticipated projects that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:**
 
-* 50X50 Face to Face Digital Publication (May 2020)
+* *50X50 Face to Face* Digital Publication (May 2020)
 * DOME Collective Research Prototype (March 2019)
 * Knight Foundation "Museum Tech Deep Dives" Project (February 2020)
 * Responsive email marketing strategy (Date?)
@@ -46,7 +46,7 @@ Onsite and online experiences should join up all aspects of the visitor experien
 
 **The following future projects exemplify the Experiences and Engagement strategy outlined above and will be pursued after 2021:**
 *
-* 
+*
 
 -----
 
