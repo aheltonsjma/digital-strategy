@@ -18,7 +18,18 @@ Digital activities should not be siloed into various departments, but instead wo
 
 Evaluating and streamlining existing organizational workflows to optimize productivity and promote the use of existing technological resources will increase the museum's capacity to pursue new, exciting digital projects with more ease and success.
 
-###4.4 Strategy In Action
+###4.4 Updated Technology Infrastructure
+While technology is transforming how museums engage with visitors, it also has the capacity to transform the way museums are run and to improve the productivity of our staff. Access to the right tools for the work we are directly impacts the museums bottom line and our ability to deliver our programs and other offerings to the public.
+
+Failing to plan ahead for technical needs leads to technical debt which saddles the museum and its staff with a significant burden on their workflows and makes technical updates more expensive in the long-term. Budgeting for technology infrastructure should be considered every year in relation to any employee workstations that need updates, servers in use, machinery, software, databases or any other systems that are mission critical for SJMA.
+
+An IT budget should take into account the following aspects:
+  1. **Current infrastructure** What are we currently using and what maintenance does it require in the coming year?
+  2. **Technology lifecycles:** Three to five years is the average lifespan for a desktop computer, after 5 years servers suffer from greatly decreases performance and become more expensive to maintain)
+  3. **Future Vision:** What are out goals for the museum in the next 3-5 years and what improvements will support that vision?
+  4. **Current and projected revenue:** How much do we have to spend on IT Infrastructure? If rapid growth is in progress or expected then more may need to be spent to ensure that our infrastructure can keep up with that growth.
+
+###4.5 Strategy In Action
 
 The following are projects initiated or deployed between 2015 and 2017 that exemplify the Organizational Transformation strategy outlined above:
 
@@ -27,14 +38,15 @@ The following are projects initiated or deployed between 2015 and 2017 that exem
 The following are anticipated projects that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:
 
 
-* Audit workflow and project management systems in place at SJMA and how they are working or not working, and implementing change where necessary.- (January 2020-January 2021)
-* Technology audit to identify equipment and systems needs across all departments and build a plan for acquiring resources as necessary and addressing these needs systematically.
+* Audit workflow and project management systems in place at SJMA and implementing change where necessary.- (January 2020-January 2021)
+* Technology audit to identify equipment and systems needs across all departments and build a plan for  addressing these needs systematically.
 
 
 The following future projects exemplify the Experiences and Engagement strategy outlined above and will be pursued after 2021:
 
 * Transition from Embark to a web based collections management platform, For example: TMS Collections (Gallery Systems).
 * Establish a Digital Asset Management system to improve workflow around asset management and rights/reproduction for Exhibitions, Marketing, and other uses.
+* Identify a strategy for digitizing the SJMA archive and entering into the museum's DAM system.
 -----
 
 [HOME](index.md) | [Previous Section](03_Accessibility_and_Philisophy.md) | [Next Section](05_Financial_Solvency.md)
