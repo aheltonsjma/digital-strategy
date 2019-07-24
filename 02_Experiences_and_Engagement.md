@@ -2,7 +2,7 @@
 
 SJMA's most fundamental interest is in engaging visitors around the objects and scholarship that takes place here. We offer experiences that are intellectually fulfilling, emotionally stimulating, and leave visitors craving more. Alongside the compelling experiences offered by SJMA is an ethos of open engagement around museum collections, exhibitions and programming. Emerging technologies allow the museum to participate in meaningful ways with visitors, whether they are on-site or online.
 
-###2.1 On-site
+### 2.1 On-site
 
 People have many choices when considering where and how to spend their leisure time and money. Here in Silicon Valley, someone could attend a ball game, enjoy a tasty meal, go to a concert, visit a museum or one of many cultural institutions within the city. All of these options offer unique experiences. The experience at SJMA must not only be top-tier in Silicon Valley, but also must be world class. The museum's gallery experience must be active, participatory, surprising and delightful.
 
@@ -10,7 +10,7 @@ With respect to digital technologies, experiences should be seamless and availab
 
 Instead, the digital components to the on-site gallery experience are a part of the discussion from a project's inception, through its installation, and throughout its duration. Having digital leadership involved from the outset is instrumental in creating seamless, integrated experiences.
 
-###2.2 Online
+### 2.2 Online
 
 Much like physical visitors have options when deciding where to spend their time, attention and money, online visitors also have choices. The Internet offers infinite choices. User interfaces must be consistent, elegant and fun to use. Interacting with museum subject matter must be easy. The narratives must be valuable, engaging, shareable and worth sharing.
 
@@ -18,13 +18,13 @@ SJMA's digital team strives for a balance between developing internally-supporte
 
 We emphasize community and work to grow the depth of interactions around SJMA's artworks, artists, and the San José community through the lens of emerging technologies and digital culture.
 
-###2.3 Experience Integration
+### 2.3 Experience Integration
 
 Onsite and online experiences should join up all aspects of the visitor experience before, during, and after a visit to the museum. This facilitates a stronger connection with the visitor and encourages them to return.
 
-###2.4 Strategy In Action
+### 2.4 Strategy In Action
 
-The following are projects initiated or deployed between 2015 and 2019 that exemplify the Experiences and Engagement strategy outlined above:
+**The following are projects initiated or deployed between 2015 and 2019 that exemplify the Experiences and Engagement strategy outlined above:**
 
 * [Fully responsive sjmusart.org](https://sjmusart.org/) — Month Year???
 * [This Kind of Bird Flies Backward: Paintings by Joan Brown](https://sjmusart.org/joan-brown/), (2011)
@@ -35,7 +35,7 @@ The following are projects initiated or deployed between 2015 and 2019 that exem
 * Past Gallery Interactives? Banerjee etc.
 * On-site evaluation, user testing, and visitor survey's.
 
-The following are anticipated projects that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:
+**The following are anticipated projects that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:**
 
 * 50X50 Face to Face Digital Publication (May 2020)
 * DOME Collective Research Prototype (March 2019)
@@ -44,7 +44,9 @@ The following are anticipated projects that are on-going or will be deployed bet
 * Establish specific strategy for each social media platform we use.(Date?)
 * Analysis and expansion of current website analytics data. (Date?)
 
-The following future projects exemplify the Experiences and Engagement strategy outlined above and will be pursued after 2021:
+**The following future projects exemplify the Experiences and Engagement strategy outlined above and will be pursued after 2021:**
+*
+* 
 
 -----
 
