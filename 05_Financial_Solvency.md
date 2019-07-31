@@ -42,8 +42,9 @@ An IT budget should take into account the following aspects:
 * [Mobile-optimized individual giving site](https://sjmusart.org/join-and-support) — XXXXX
 * Reaching out to community partners and building relationships that will increase our potential for technology community support.
 
+
 **The following future projects exemplify the Experiences and Engagement strategy outlined above and will be pursued after 2021:**
-*
+* Identify strategy for moving away from maintaining our own servers on-site and move to cloud-based storage.
 *
 
 -----
