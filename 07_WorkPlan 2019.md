@@ -4,8 +4,9 @@
 * Establish specific strategy for each social media platform we use.
 * Analysis and expansion of current website analytics data.
 * Computer Updates Across Museum, Phase 1 Cost estimate:
+* SJMA website ADA audit (Date?), Cost estimate: $1500
 
-Total cost estimate:
+Total cost estimate: 
 
 -----
 
