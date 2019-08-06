@@ -29,6 +29,7 @@ SJMA joins other reputable and forward-thinking institutions with public service
 * *50X50 Face to Face* Digital Publication (Launch on May 2020)
 * Individual admission for youth 17 and under, college students, and teachers with valid ID is now free every day.(2019)
 * The Museum is open 11am–9pm or later on the first Friday of each month. These late nights offer free admission to all exhibitions and programs from 5–9pm.This sponsorship initiative is led by the Facebook Art Department.(2019)
+* Updated design for SJMA Permanent Collection Site
 
 **The following are anticipated projects that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:**
 
