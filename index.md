@@ -22,3 +22,6 @@
 6. [Benchmarks, Deliverables and Progress](06_Benchmarks_Deliverables_and_Progress.md)
 	1. Evaluation Methods
 	2. Key performance indicators
+7. [Work Plan 2019](07_WorkPlan_2019.md)
+8. [Work Plan 2020](08_WorkPlan_2020.md)
+9. [Work Plan 2021](07_WorkPlan_2021.md)
