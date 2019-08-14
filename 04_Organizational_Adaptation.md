@@ -33,6 +33,8 @@ While technology is transforming how museums engage with visitors, it also has t
 
 * Audit workflow and project management systems in place at SJMA and implementing change where necessary.- (January 2020-January 2021)
 * Technology audit to identify equipment and systems needs across all departments and build a plan for  addressing these needs systematically.
+* Set up a VPN (Virtual Private Network) for remote access to work files.
+* Budget for getting everyone on Office 365 and most current Microsoft Suite Software Subscription
 
 
 **The following future projects exemplify the Experiences and Engagement strategy outlined above and will be pursued after 2021:**

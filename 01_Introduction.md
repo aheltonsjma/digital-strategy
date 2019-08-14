@@ -12,7 +12,7 @@ This document is intended to be a roadmap for further infusion of digital activi
 
 SJMA's digital strategy for 2020-2021 is a real-time document. This means it is living and evolving as we deploy tactics to meet the strategies contained herein. Each strategic thrust includes a *Strategy in Action* section, where we will make updates, additions and notes about ongoing activities.
 
-By structuring our digital strategy as a living document, we have the freedom to respond quickly to external conditions, such as rapid shifts in technology and real-time digital metrics reporting. A transparent document such as this also keeps the museum publicly accountable for progress and momentum.
+A living document allows SJMA to respond in an agile manner to inevitable shifts in the technology and real-time digital metrics reporting. A transparent document such as this also keeps the museum publicly accountable for progress and momentum.
 
 Given that the world of technology is more fast-paced and dynamic than the museum world, it will be important to scale our efforts in proportion to what our staff and resources can adequately manage at a given time. This digital strategy will outline what projects the museum is currently engaged in that support this strategy, as well as a plan for future projects and identify the resources needs estimated for completion of those projects.
 
@@ -38,7 +38,7 @@ Each department in the museum is approaching its role and work with this vision 
 
 In addition to the vision outlined above, it is also important to bring attention to SJMA's overarching goal of becoming a borderless museum, and to becoming essential to creative life throughout the diverse communities of San José and Silicon Valley.
 
-Digital and emerging technologies are powerful tool with which SJMA will realize these goals and acknowledge the increasingly important role of digital activities within the museum space. The nexus of art and technology is the cornerstone which makes the experiences we offer our visitors relevant and engaging in an evolving digital landscape and invites them to engage with contemporary ideas about technology and culture with playful curiosity.
+Digital and emerging technologies provide powerful tools with which to realize these goals and acknowledge the increasingly important role of digital activities within the museum space. The nexus of art and technology is the cornerstone which makes the experiences we offer our visitors relevant and engaging in an evolving digital landscape and invites them to engage with contemporary ideas about technology and culture with playful curiosity.
 
 ### 1.3 Strategic Thrusts
 

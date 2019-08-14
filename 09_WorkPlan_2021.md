@@ -5,20 +5,20 @@
   - Funding:
 * All new projects meet accessibility requirements and are standards-compliant.
   - Personnel:
-  - Funding:
+  - Funding: N/A
 * Transition from Embark to a web based collections management platform, For example: TMS Collections (Gallery Systems).
-  - Personnel:
-  - Funding:
+  - Personnel: MDS, Registrar, Gallery Systems Representative
+  - Funding: $40,000
 * Establish a Digital Asset Management system to improve workflow around asset management and rights/reproduction for Exhibitions, Marketing, and other uses.
-  - Personnel:
-  - Funding:
-* Identify a strategy for digitizing the SJMA archive and entering into the museum's DAM system.
-  - Personnel:
-  - Funding:
-* Identify strategy for moving away from maintaining our own servers on-site and move to cloud-based storage.
-  - Personnel:
-  - Funding:
-  
+  - Personnel: MDS, Registrar, Gallery Systems Representative
+  - Funding: This would be included in cost to transition to TMS Collections.
+* Implement strategy for digitizing SJMA archive and entering into the museum's DAM system.
+  - Personnel: MDS, Registrar, Additional Staff Assistance?
+  - Funding: TBD
+* Start implementing the move to cloud-based storage in some areas such as .
+  - Personnel: MDS, IT Contractor
+  - Funding:TBD
+
 Total cost estimate: TBD
 
 -----

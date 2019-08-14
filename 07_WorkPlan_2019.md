@@ -1,25 +1,23 @@
 # 7. Workplan 2019
 
+##AUGUST
 * Updated design for SJMA Permanent Collection Site
-	- Personnel:
-	- Funding:
+	- Personnel: Karl Shea (Drupal Developer), IT Contractor, Gallery Systems Representative, MDS
+	- Funding: TBD
 * Audit workflow and project management systems in place at SJMA and implementing change where necessary.- (January 2020-January 2021)
-	- Personnel:
-	- Funding:
-* Technology audit to identify equipment and systems needs across all departments and build a plan for  addressing these needs systematically.
-	- Personnel
-	- Funding:
+	- Personnel: MDS and All Department Heads
+	- Funding: N/A
+* Technology audit to identify equipment and systems needs across all departments and build a plan for  addressing these needs systematically, Phase 1 Cost estimate:.
+	- Personnel: MDS, Department Heads, IT Contractor
+	- Funding: $20,000
 * Establish specific strategy for each social media platform we use and make sure our handles and search keywords are search optimized.
-	- Personnel
-	- Funding:
+	- Personnel: MDS and MARCOM Department
+	- Funding: N/A
 * Analysis and expansion of current website analytics data.
-	- Personnel
-	- Funding:
-* Computer Updates Across Museum, Phase 1 Cost estimate:
-	- Personnel
-	- Funding:
+	- Personnel: MDS, MARCOM, and Development Department
+	- Funding: TBD
 * SJMA website ADA audit (Date?)
-	- Personnel
+	- Personnel: Independent contractor and MDS
 	- Funding: $1500
 
 Total cost estimate: TBD
