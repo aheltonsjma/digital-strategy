@@ -1,12 +1,10 @@
 # 4. Organizational Adaptation
 
-Emerging platforms and technologies impact nearly all aspects of our day-to-day lives, and promise new levels of speed and efficiency. If SJMA is to thrive in the digital age, it is important that all staff become comfortable and proficient with the new tools and workflows emerging technologies afford.
-
-The world is evolving around us and SJMA embraces this reality and works toward molding the organization into a museum that adapts quickly with technology and marches confidently into the digital future.
+ If SJMA is to thrive in the digital age, it is important that all staff become comfortable and proficient with the new tools and workflows emerging technologies afford. Emerging technologies impacts nearly all aspects of our day-to-day lives, and promise new levels of speed and efficiency.The world is evolving around us and SJMA embraces this reality and works toward molding the organization into a museum that adapts quickly with technology and marches confidently into the digital future.
 
 ### 4.1 Empowering a digital mindset
 
-The museum works to empower staff to think critically and creatively about technology. With digital initiatives at the front of our minds, we can be creative and proactive with concepts and projects. We bring technology into project conversations early and create integrated experiences that marry digital and analog elements in compelling ways.
+The museum works to empower staff to think critically and creatively about technology. With digital initiatives at the front of our minds, we can be creative and proactive with concepts and projects. When we bring technology into project conversations early and create integrated experiences that marry digital and analog elements in compelling ways.
 
 ### 4.2 Developing internal skill-sets
 
@@ -14,13 +12,11 @@ The Manager of Digital Strategy (MDS) along with other key members of the digita
 
 ### 4.3 New Organizational Workflows
 
-Digital activities should not be siloed into various departments, but instead woven into the fabric of the museum. Diffusing digital knowledge and skills throughout the organization makes room for digital roles in all department to focus on innovation at the leading edge of the digital sphere and increases capacity for the organization overall.
-
-Evaluating and streamlining existing organizational workflows to optimize productivity and promote the use of existing technological resources will increase the museum's capacity to pursue new, exciting digital projects with more ease and success.
+Digital activities ought to be the responsibility of all departments rather than being siloed into only one area. Encouraging professional development of digital skills throughout SJMA allows digital roles in all departments to focus on innovation, overcome daily IT struggles, and increases capacity of the museum overall. In addition, evaluating and streamlining existing organizational workflows to optimize productivity and promote the use of existing technological resources will increase the museum's capacity to pursue new, exciting digital projects with more ease and success.
 
 ### 4.4 Technical Resources
 
-While technology is transforming how museums engage with visitors, it also has the capacity to transform the way museums are run and to improve the productivity of our staff. Access to the right tools for the work we are doing directly impacts the museums bottom line and our ability to deliver our programs and other offerings to the public.
+While technology is transforming how museums engage with visitors, it also has the capacity to transform the way museums are run and to improve the productivity of our staff. Access to the right tools for the work we are doing directly impacts our bottom line and our ability to deliver experiences to the public.
 
 ### 4.4 Strategy In Action
 
