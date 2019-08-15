@@ -1,6 +1,6 @@
 # 5. Financial Solvency
 
-While technology touches all of our personal lives, it is also transforming business models. Museums and other cultural institutions often shoulder a great burden when the technological landscape changes and often limited resources, struggle to adapt. SJMA recognizes that our organization requires adequate financial resources to fulfill its mission and to implement new technologies in service of that mission.
+While technology touches all of our personal lives, it is also transforming business models. Museums and other cultural institutions often shoulder a great burden when the technological landscape changes and often with limited resources they struggle to adapt. SJMA recognizes that our organization requires adequate financial and personnel resources to implement new technologies in service of our mission.
 
 ### 5.1 Philanthropy
 
