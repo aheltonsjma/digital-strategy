@@ -7,7 +7,7 @@
 
 ## FEBRUARY
 * Knight Foundation "Museum Tech Deep Dives" Project (February 2020)
-  - Personnel: Amanda Helton, Holly Shen, Jeff Bordona, Jessica Kwong
+  - Personnel: MDS, Deputy Director, Director of Education
   - Funding: Funded by Knight Foundation
 
 ## MARCH

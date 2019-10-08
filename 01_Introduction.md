@@ -1,20 +1,18 @@
 # 1. Introduction
 
-Digitization of museum collections and the limitless dissemination of networked digital information has forever transformed how knowledge about cultural objects and ideas is produced and managed. The need for museums to incorporate digital tools and respond to the changing technological landscape represents the greatest operational and cultural shift that museums have faced in many decades.
+Digitization and the limitless dissemination of networked digital information has forever transformed how knowledge about cultural objects and ideas is produced, managed, and consumed. These changes have provided museums with new opportunities to engage with visitors online and have also presented many challenges to which museums must respond. Arguably, this incremental but unstoppable technological shift has represented the greatest cultural shift that museums have faced in many decades.
 
-Such changes have provided new opportunities to engage with users online and have presented many challenges to which museums must respond. How might we deliver authoritative, meaningful digital content with the speed and reliability driven by broader digital trends, that are now expected by users? Where does technology fit into our already existing missions?
+Where does technology fit into our already existing missions? How might we deliver authoritative, meaningful digital content with the speed and reliability that is driven by broader digital trends and expected by users? The extent to which SJMA can benefit from new opportunities in the digital space to drive revenue, engagement, and innovation depends on its ability to leverage new technologies and agile workflows to support its mission.
 
-The extent to which SJMA can benefit from new opportunities in the digital space to drive revenue, engagement, and innovation depends on its ability to utilize new technologies and agile workflows to support its mission.
-
-This document is intended to be a roadmap for further infusion of digital activities into the museums operations and overall programming. From in-gallery interactive projects to the digital literacy of our staff, a structured strategy helps the museum stay focused on the priorities and goals we have identified herein, and it serves as a repository for tracking our progress along the way. SJMA's digital strategy provides a diagnosis of what role digital should play in service of SJMA's core values, a guiding policy for implementation, and clarity around the specific actions and resources required.
+This document is intended to be a roadmap for further infusion of digital activities into the museums operations and overarching strategic plan. From in-gallery interactive projects to the digital literacy of our staff, a structured strategy helps the museum stay focused on the priorities and goals we have identified herein, and it serves as a repository for tracking our progress along the way. SJMA's digital strategy provides a diagnosis of what role digital should play in service of SJMA's core values, a guiding policy for implementation, and clarity around the specific actions and resources required.
 
 ### A Real-Time Document
 
-SJMA's digital strategy for 2020-2021 is a real-time document. This means it is living and evolving as we deploy tactics to meet the strategies contained herein. Each strategic thrust includes a *Strategy in Action* section, where we will make updates, additions and notes about ongoing activities.
+SJMA's digital strategy for 2020-2021 is a real-time document. It is living and evolving as we deploy tactics to meet the strategies contained herein. Each strategic thrust includes a *Strategy in Action* section, where we will make updates, additions and notes about ongoing activities.
 
-A living document allows SJMA to respond in an agile manner to inevitable shifts in the technology and real-time digital metrics reporting. A transparent document such as this also keeps the museum publicly accountable for progress and momentum.
+A living document allows SJMA to respond to inevitable shifts in the technology and real-time digital metrics reporting. A transparent document such as this also keeps the museum publicly accountable for progress and momentum.
 
-Given that the world of technology is more fast-paced and dynamic than the museum world, it will be important to scale our efforts in proportion to what our staff and resources can adequately manage at a given time. This digital strategy will outline what projects the museum is currently engaged in that support this strategy, as well as a plan for future projects and identify the resources needs estimated for completion of those projects.
+Given that the world of technology is more fast-paced and dynamic than the museum world, it will be important to scale our efforts in proportion to what our staff and resources can adequately manage at any given time. This digital strategy will outline what projects the museum is currently engaged in that support this strategy, plans for future projects, and identify the resources required.
 
 ### An Open-Source Repository
 
@@ -32,13 +30,13 @@ In order to realize this vision, the museum has identified the following strateg
 4. Engage the public in exploring creative and experimental technological processes
 5. Utilize technology to increase accessibility of museum programs for diverse abilities
 
-Each department in the museum is approaching its role and work with this vision statement and set of strategic goals in mind.
+Each department in the museum is approaching their work with this vision statement and set of strategic goals in mind.
 
 ### 1.2 A Borderless Museum
 
-In addition to the vision outlined above, it is also important to bring attention to SJMA's overarching goal of becoming a borderless museum, and to becoming essential to creative life throughout the diverse communities of San José and Silicon Valley.
+In addition to the vision outlined above, it is also important to bring attention to SJMA's overarching goal of becoming a borderless museum, and to being essential to creative life throughout the diverse communities of San José and Silicon Valley.
 
-Digital and emerging technologies provide powerful tools with which to realize these goals and acknowledge the increasingly important role of digital activities within the museum space. The nexus of art and technology is the cornerstone which makes the experiences we offer our visitors relevant and engaging in an evolving digital landscape and invites them to engage with contemporary ideas about technology and culture with playful curiosity.
+Digital and emerging technologies provide powerful tools with which to realize these goals and acknowledge the increasingly important role of digital activities within the museum space. Inviting visitors to think about life and culture via technology and through the lens of art and culture makes the experiences we offer our visitors more relevant to their daily lives and deeply engages with a global narrative about human relationships with technology.
 
 ### 1.3 Strategic Thrusts
 

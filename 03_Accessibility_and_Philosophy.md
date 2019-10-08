@@ -1,6 +1,6 @@
 # 3. Accessibility and Philosophy
 
-As museums and cultural heritage institutions, we are the stewards of artwork for the public. SJMA is a leading showcase in the Bay Area for modern and contemporary art. The Museum has earned a reputation for its fresh, distinctive exhibitions, which are conceived to engage Museum visitors of various ages and cultural backgrounds.Through its exhibitions and programs, SJMA addresses major trends in international contemporary art, architecture, and design, with an ongoing commitment to also place the work of California artists in national and international context.
+SJMA is a leading showcase in the Bay Area for modern and contemporary art. The Museum has earned a reputation for its fresh, distinctive exhibitions, which are conceived to engage Museum visitors of various ages and cultural backgrounds. Through its exhibitions and programs, SJMA addresses major trends in international contemporary art, architecture, and design, with an ongoing commitment to also place the work of California artists in national and international context.
 
 Digital technologies provide new ways of sharing stories and inviting participation through transparent open access. In the coming years we will continue to work to increase operational transparency and access to the museum's fascinating collection.
 

@@ -23,6 +23,7 @@ While technology is transforming how museums engage with visitors, it also has t
 **The following are projects initiated or deployed between 2015 and 2017 that exemplify the Organizational Transformation strategy outlined above:**
 
 * Creation of a Digital Engagement Team — (January 2020)
+* Provide and facilitate on-going access to learning tools and opportunities for staff to cultivate digital skill-sets. Many resources exist online for free and professional instruction can also be arranged.
 
 **The following are anticipated projects that are on-going or will be deployed between 2020-2021 that exemplify the Experiences and Engagement strategy outlined above:**
 
@@ -36,7 +37,7 @@ While technology is transforming how museums engage with visitors, it also has t
 **The following future projects exemplify the Experiences and Engagement strategy outlined above and will be pursued after 2021:**
 
 * Transition from Embark to a web based collections management platform, For example: TMS Collections (Gallery Systems).
-* Establish a Digital Asset Management system to improve workflow around asset management and rights/reproduction for Exhibitions, Marketing, and other uses.
+* Establish a Digital Asset Management system to improve workflow around asset management and rights/reproduction for Exhibitions, Marketing, and other uses. For example: TMS Collections comes with a DAM solution built in we may opt to use.
 * Identify a strategy for digitizing the SJMA archive and entering into the museum's DAM system.
 -----
 
