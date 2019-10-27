@@ -1,10 +1,14 @@
 # 1. Introduction
 
-Digitization and the limitless dissemination of networked digital information has forever transformed how knowledge about cultural objects and ideas is produced, managed, and consumed. These changes have provided museums with new opportunities to engage with visitors online and have also presented many challenges to which museums must respond. Arguably, this incremental but unstoppable technological shift has represented the greatest cultural shift that museums have faced in many decades.
+Digitization and the limitless dissemination of networked digital information has forever transformed how knowledge is produced, managed, and consumed. These changes have provided museums with new opportunities to engage visitors online and have also presented many challenges to which museums must respond. Arguably, this incremental but unstoppable shift towards the digital world of work has represented the greatest cultural shift that museums have faced in many decades.
 
-Where does technology fit into our already existing missions? How might we deliver authoritative, meaningful digital content with the speed and reliability that is driven by broader digital trends and expected by users? The extent to which SJMA can benefit from new opportunities in the digital space to drive revenue, engagement, and innovation depends on its ability to leverage new technologies and agile workflows to support its mission.
+Where does technology fit into our already existing missions? How might we deliver authoritative, meaningful digital content that meets or exceeds the level of speed and reliability driven by broader digital trends?
 
-This document is intended to be a roadmap for further infusion of digital activities into the museums operations and overarching strategic plan. From in-gallery interactive projects to the digital literacy of our staff, a structured strategy helps the museum stay focused on the priorities and goals we have identified herein, and it serves as a repository for tracking our progress along the way. SJMA's digital strategy provides a diagnosis of what role digital should play in service of SJMA's core values, a guiding policy for implementation, and clarity around the specific actions and resources required.
+The extent to which SJMA can benefit from new opportunities in the digital space to drive revenue, engagement, and innovation depends on its ability to leverage new technologies and agile workflows to support its mission.
+
+This document is intended to be a roadmap for further infusion of digital activities into the museums operations and overarching strategic plan. From in-gallery interactive projects to the digital literacy of our staff, this strategy will help the museum stay focused on the priorities and goals we have identified herein, and it serves as a repository for tracking our progress along the way.
+
+SJMA's digital strategy provides a diagnosis of what role digital should play in service of SJMA's core values, a guiding policy for implementation, and clarity around the specific actions and resources required for implementation.
 
 ### A Real-Time Document
 
