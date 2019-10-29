@@ -3,7 +3,7 @@
 * Completion of 100% of permanent collection digitized and available online.
   - Personnel:
   - Funding:
-* All new projects meet accessibility requirements and are standards-compliant.
+* All new digital projects meet accessibility requirements and are web standards-compliant.
   - Personnel:
   - Funding: N/A
 * Transition from Embark to a web based collections management platform, For example: TMS Collections (Gallery Systems).
@@ -15,7 +15,7 @@
 * Implement strategy for digitizing SJMA archive and entering into the museum's DAM system.
   - Personnel: MDS, Registrar, Additional Staff Assistance?
   - Funding: TBD
-* Start implementing the move to cloud-based storage in some areas such as .
+* Start implementing the move to cloud-based storage.
   - Personnel: MDS, IT Contractor
   - Funding:TBD
 
