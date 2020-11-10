@@ -1,6 +1,6 @@
 #See What You Think
 
-## The San Jose Museum of Art: Digital Strategy 2020 - 2021
+## The San José Museum of Art: Digital Strategy 2020 - 2021
 
 1. [Introduction](01_Introduction.md)
 	1. Vision Statement
