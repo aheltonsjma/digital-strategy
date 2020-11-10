@@ -1,6 +1,6 @@
 # 1. Introduction
 
-The limitless dissemination of networked digital information have forever transformed how knowledge is produced, managed, and consumed. These changes have provided museums with new opportunities to engage visitors online and have also presented many challenges to which museums must respond. This unstoppable shift towards the digital represents one of the most significant cultural changes that museums have faced in many decades.
+The limitless dissemination of networked digital information has forever transformed how knowledge is produced, managed, and consumed. These changes have provided museums with new opportunities to engage visitors online and have also presented many challenges to which museums must respond. This unstoppable shift towards the digital represents one of the most significant cultural changes that museums have faced in many decades.
 
 The extent to which SJMA can benefit from new opportunities in the digital space to drive revenue, engagement, and innovation depends on its ability to leverage new technologies and agile workflows to support its mission. This document provides a roadmap for further infusion of digital activities into the museum's operations and overarching strategic plan. This strategy will help the museum stay focused on the priorities and goals we have identified herein, from in-gallery interactive projects to our digital literacy staff. It will serve as a repository for tracking our progress along the way.
 
