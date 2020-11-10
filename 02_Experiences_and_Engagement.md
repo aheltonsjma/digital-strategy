@@ -1,6 +1,6 @@
 # 2. Experiences and Engagement
 
-SJMA's most fundamental interest is in engaging visitors around the objects and scholarship that takes place here. SJMA strives to offer experiences that are both intellectually stimulating and accessible to every visitor. In keeping with those values, SJMA embraces an atmosphere of open engagement and sees technology as one of many tools with which to facilitate meaningful engagement with visitors, whether they are on-site or online.
+SJMA strives to offer experiences that are both intellectually stimulating and accessible to every visitor. In keeping with those values, SJMA embraces an atmosphere of open engagement and sees technology as one of many tools with which to facilitate meaningful engagement with visitors, whether they are on-site or online.
 
 We emphasize community and work to grow the depth of interactions around SJMA's artworks, artists, and the San José community through the lens of emerging technologies and digital culture.
 
