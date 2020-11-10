@@ -39,6 +39,7 @@ While technology is transforming how museums engage with visitors, it also has t
 * Transition from Embark to a web based collections management platform, For example: TMS Collections (Gallery Systems).
 * Establish a Digital Asset Management system to improve workflow around asset management and rights/reproduction for Exhibitions, Marketing, and other uses. For example: TMS Collections comes with a DAM solution built in we may opt to use.
 * Identify a strategy for digitizing the SJMA archive and entering into the museum's DAM system.
+
 -----
 
 [HOME](index.md) | [Previous Section](03_Accessibility_and_Philisophy.md) | [Next Section](05_Financial_Solvency.md)
