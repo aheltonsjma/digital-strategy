@@ -12,8 +12,8 @@ To read the strategy in a browser, [start here](index.md). You can also download
 
 This digital strategy was authored by Amanda Helton, Manager of Digital Strategy at San José Museum of Art, in close collaboration with:
 
-* Sayre Batton, Oshman Executive Director, San José Museum of Art
-* Holly Shen, Deputy Director, San José Museum of Art
+* 
+* 
 * 
 
 Questions or comments about the digital strategy can be sent to [ahelton@sjmusart.org](mailto:ahelton@sjmusart.org).
